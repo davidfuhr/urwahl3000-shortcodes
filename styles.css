@@ -1,0 +1,19 @@
+nav.unterseiten ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+nav.unterseiten h4 img {
+    margin: 0 0.5em 2em 0;
+
+    height: auto;
+    width: 33%;
+}
+
+nav.unterseiten ul.sitemap-persons h4 img {
+    border-radius: 100%;
+    margin: 0 40px 0 0;
+
+    height: 120px;
+    width: 120px;
+}
