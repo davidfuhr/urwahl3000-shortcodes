@@ -1,0 +1,6 @@
+{
+    "name": "wpackagist-plugin/urwahl3000-shortcodes",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0-or-later",
+    "require": {}
+}
